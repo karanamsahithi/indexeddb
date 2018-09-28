@@ -1,0 +1,23 @@
+.mainDiv{
+  background: #FF5733;
+  text-align: center;
+  padding: 2%;
+}
+.eduDiv{
+ background: #9CC223;
+ display: flex;
+ justify-content: space-between;
+}
+.sscDiv{
+  width: 30%;
+  background-color: #ACECB3;
+  text-align:center;
+  border: solid black;
+}
+
+  .interDiv{
+    width: 30%;
+    background-color: #7A23C2;
+    text-align: center;
+    border: solid black;
+  }
